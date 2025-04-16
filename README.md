@@ -23,7 +23,7 @@
 - ✅ Gestion hiérarchique des rôles
 - ✅ Intégration Firebase/MongoDB
 - ✅ Création automatique de profil utilisateur
-- 🚀 [Voir le code](lien-vers-votre-repo-d-auth)
+- 🚀 [Voir le code](https://github.com/Ramine92/tmv-cinema)
 
 ---
 
